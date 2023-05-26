@@ -2,7 +2,7 @@
 #not commit
 #another commitafsdfasdfasdfasdg
 #another commitasdfasdfasdfsdvdvasdfasdfasdfasdfasdf
-#another commitasdflkjaölsdflkjaslödjflkjasdölkfjlökajsdf
+#another commitasdflkjaölsdflkjaslödasdfasdfjflkjasdölkfjlökajsdf
 from psynet.page import \
     InfoPage, \
     SuccessfulEndPage

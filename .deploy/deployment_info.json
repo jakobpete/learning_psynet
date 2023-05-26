@@ -1,0 +1,12 @@
+{
+    "redeploying_from_archive": false,
+    "mode": "debug",
+    "is_local_deployment": true,
+    "is_ssh_deployment": false,
+    "folder_name": "psynet_aud_exp",
+    "secret": {
+        "py/object": "uuid.UUID",
+        "hex": "52ca9fa244d24f0e89bf965027358f71"
+    },
+    "deployment_id": "('choose_mi_ma',)__mode=debug__launch=2023-05-16--11-54-21"
+}

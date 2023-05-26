@@ -69,7 +69,7 @@ major_arpeggio = ModularPage(
 minor_arpeggio = ModularPage(
     "minor_js_synth",
     JSSynth(
-        "Here we go! That is your minor arpeggio!",
+        "Here we go! That is your minor arpeggioasdfasdfasdf!",
         [
             Note(60, pan=1),
             Note(58, pan=-1),

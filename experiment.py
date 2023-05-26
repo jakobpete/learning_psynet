@@ -28,7 +28,7 @@ import random
 major_arpeggio = ModularPage(
     "major_js_synth",
     JSSynth(
-        "Here we go! That is your major arpeggio!",
+        "Here we go! That is your major arpeggiooooooooooooooooo!",
         [
             Note(60, pan=1),
             Note(59, pan=-1),

@@ -84,7 +84,7 @@ either_major_minor = Module(
             "mi_ma_arpeggio",
             ModularPage(
                 "mood",
-                Prompt("Would you like to hear a major or minor scale"),
+                Prompt("Would you like to hear a major or minor scale or something else?"),
                 control=PushButtonControl(["Minor","Major"]),
                 time_estimate=5,
             ),

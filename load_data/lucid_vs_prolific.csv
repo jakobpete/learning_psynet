@@ -1,0 +1,259 @@
+Unnamed: 0,language_name,country_name,language_code,country_code,recruiter,count,min_count,max_count,latitude,longitude
+85,English,United States,eng,us,lucid,211562.5,155629.0,267496.0,37.09024,-95.712891
+125,Japanese,Japan,jpn,jp,lucid,61016.0,42047.0,79985.0,36.204824,138.252924
+57,English,United Kingdom,eng,gb,lucid,43620.5,33535.0,53706.0,55.378051,-3.435973
+56,English,United Kingdom,eng,gb,prolific,31783.0,,,55.378051,-3.435973
+84,English,United States,eng,us,prolific,27751.0,,,37.09024,-95.712891
+101,French,France,fre,fr,lucid,22042.0,17049.0,27035.0,46.227638,2.213749
+67,English,India,eng,in,lucid,21691.0,16053.0,27329.0,20.593684,78.96288
+107,German,Germany,ger,de,lucid,17171.0,13648.0,20694.0,51.165691,10.451526
+173,Spanish,Mexico,spa,mx,lucid,16411.0,11160.0,21662.0,23.634501,-102.552784
+139,Portuguese,Brazil,por,br,lucid,14045.0,10139.0,17951.0,-14.235004,-51.92528
+53,English,Canada,eng,ca,lucid,13590.0,10520.0,16660.0,56.130366,-106.346771
+31,Chinese,China,chi,cn,lucid,10903.0,8112.0,13694.0,35.86166,104.195397
+127,Korean,Korea,kor,kr,lucid,10638.5,7368.0,13909.0,35.907757,127.766922
+119,Indonesian,Indonesia,ind,id,lucid,9896.5,6274.0,13519.0,-0.789275,113.921327
+51,English,Australia,eng,au,lucid,8514.5,6635.0,10394.0,-25.274398,133.775136
+167,Spanish,Spain,spa,es,lucid,8360.0,6154.0,10566.0,40.463667,-3.74922
+123,Italian,Italy,ita,it,lucid,7154.0,5215.0,9093.0,41.87194,12.56738
+77,English,Philippines,eng,ph,lucid,6589.5,3926.0,9253.0,12.879721,121.774017
+201,Thai,Thailand,tha,th,lucid,5394.5,3680.0,7109.0,15.870032,100.992541
+88,English,South Africa,eng,za,prolific,4848.0,,,-30.559482,22.937506
+159,Spanish,Colombia,spa,co,lucid,4690.0,2515.0,6865.0,4.570868,-74.297333
+203,Turkish,Turkey,tur,tr,lucid,4317.0,2779.0,5855.0,38.963745,35.243322
+137,Polish,Poland,pol,pl,lucid,3728.5,2431.0,5026.0,51.919438,19.145136
+140,Portuguese,Portugal,por,pt,prolific,3352.0,,,39.399872,-8.224454
+133,Malay,Malaysia,may,my,lucid,3208.5,2115.0,4302.0,4.210484,101.975766
+197,Swedish,Sweden,swe,se,lucid,2999.0,1842.0,4156.0,60.128161,18.643501
+136,Polish,Poland,pol,pl,prolific,2990.0,,,51.919438,19.145136
+73,English,Nigeria,eng,ng,lucid,2758.0,1473.0,4043.0,9.081999,8.675277
+153,Spanish,Argentina,spa,ar,lucid,2735.0,1886.0,3584.0,-38.416097,-63.616672
+143,Romanian,Romania,rum,ro,lucid,2734.0,1429.0,4039.0,45.943161,24.96676
+187,Spanish,United States,spa,us,lucid,2561.5,1675.0,3448.0,37.09024,-95.712891
+157,Spanish,Chile,spa,cl,lucid,2524.5,1333.0,3716.0,-35.675147,-71.542969
+89,English,South Africa,eng,za,lucid,2464.0,1675.0,3253.0,-30.559482,22.937506
+97,French,Canada,fre,ca,lucid,2295.5,1517.0,3074.0,56.130366,-106.346771
+106,German,Germany,ger,de,prolific,2222.0,,,51.165691,10.451526
+52,English,Canada,eng,ca,prolific,2171.0,,,56.130366,-106.346771
+172,Spanish,Mexico,spa,mx,prolific,2115.0,,,23.634501,-102.552784
+47,Dutch,Netherlands,dut,nl,lucid,2098.5,1568.0,2629.0,52.132633,5.291266
+209,Vietnamese,Vietnam,vie,vn,lucid,2062.5,1386.0,2739.0,14.058324,108.277199
+71,English,Malaysia,eng,my,lucid,2033.5,1354.0,2713.0,4.210484,101.975766
+122,Italian,Italy,ita,it,prolific,2011.0,,,41.87194,12.56738
+141,Portuguese,Portugal,por,pt,lucid,1857.5,1010.0,2705.0,39.399872,-8.224454
+113,Hindi,India,hin,in,lucid,1736.5,855.0,2618.0,20.593684,78.96288
+147,Russian,Russian Federation,rus,ru,lucid,1722.0,966.0,2478.0,61.52401,105.318756
+39,Chinese,Taiwan,chi,tw,lucid,1708.5,1164.0,2253.0,23.69781,120.960515
+23,Arabic,Saudi Arabia,ara,sa,lucid,1706.0,1293.0,2119.0,23.885942,45.079162
+179,Spanish,Peru,spa,pe,lucid,1644.5,959.0,2330.0,-9.189967,-75.015152
+3,Arabic,United Arab Emirates,ara,ae,lucid,1400.5,1053.0,1748.0,23.424076,53.847818
+117,Hungarian,Hungary,hun,hu,lucid,1327.5,667.0,1988.0,47.162494,19.503304
+50,English,Australia,eng,au,prolific,1299.0,,,-25.274398,133.775136
+63,English,Ireland,eng,ie,lucid,1294.5,858.0,1731.0,53.41291,-8.24389
+83,English,Singapore,eng,sg,lucid,1213.0,873.0,1553.0,1.352083,103.819836
+93,Finnish,Finland,fin,fi,lucid,1107.5,550.0,1665.0,61.92411,25.748151
+199,Tagalog-Filipino,Philippines,tgl,ph,lucid,1091.0,597.0,1585.0,12.879721,121.774017
+166,Spanish,Spain,spa,es,prolific,1016.0,,,40.463667,-3.74922
+75,English,New Zealand,eng,nz,lucid,1013.5,707.0,1320.0,-40.900557,174.885971
+135,Norwegian,Norway,nor,no,lucid,989.5,515.0,1464.0,60.472024,8.468946
+9,Arabic,Egypt,ara,eg,lucid,977.5,482.0,1473.0,26.820553,30.802498
+46,Dutch,Netherlands,dut,nl,prolific,961.0,,,52.132633,5.291266
+49,English,United Arab Emirates,eng,ae,lucid,942.5,619.0,1266.0,23.424076,53.847818
+69,English,Kenya,eng,ke,lucid,906.5,323.0,1490.0,-0.023559,37.906193
+0,Afrikaans,South Africa,afr,za,prolific,868.0,,,-30.559482,22.937506
+109,Greek,Greece,gre,gr,lucid,818.5,353.0,1284.0,39.074208,21.824312
+33,Chinese,Hong Kong,chi,hk,lucid,785.5,510.0,1061.0,22.396428,114.109497
+186,Spanish,United States,spa,us,prolific,782.0,,,37.09024,-95.712891
+108,Greek,Greece,gre,gr,prolific,782.0,,,39.074208,21.824312
+95,French,Belgium,fre,be,lucid,717.0,383.0,1051.0,50.503887,4.469936
+41,Czech,Czech Republic,cze,cz,lucid,706.5,381.0,1032.0,49.817492,15.472962
+79,English,Pakistan,eng,pk,lucid,669.5,174.0,1165.0,30.375321,69.345116
+149,Slovak,Slovakia,slk,sk,lucid,599.0,51.0,1147.0,48.669026,19.699024
+100,French,France,fre,fr,prolific,596.0,,,46.227638,2.213749
+207,Urdu,Pakistan,urd,pk,lucid,557.0,0.0,1114.0,30.375321,69.345116
+43,Danish,Denmark,dan,dk,lucid,552.0,388.0,716.0,56.26392,9.501785
+27,Bengali,Bangladesh,ben,bd,lucid,524.0,0.0,1048.0,23.684994,90.356331
+62,English,Ireland,eng,ie,prolific,483.0,,,53.41291,-8.24389
+165,Spanish,Ecuador,spa,ec,lucid,475.5,190.0,761.0,-1.831239,-78.183406
+156,Spanish,Chile,spa,cl,prolific,463.0,,,-35.675147,-71.542969
+116,Hungarian,Hungary,hun,hu,prolific,456.0,,,47.162494,19.503304
+193,Serbian,Serbia,srp,rs,lucid,452.0,137.0,767.0,44.016521,21.005859
+205,Ukrainian,Ukraine,ukr,ua,lucid,451.0,158.0,744.0,48.379433,31.16558
+103,German,Austria,ger,at,lucid,420.0,238.0,602.0,47.516231,14.550072
+195,Swahili,Kenya,swa,ke,lucid,406.5,0.0,813.0,-0.023559,37.906193
+105,German,Switzerland,ger,ch,lucid,404.0,274.0,534.0,46.818188,8.227512
+45,Dutch,Belgium,dut,be,lucid,372.0,259.0,485.0,50.503887,4.469936
+61,English,Hong Kong,eng,hk,lucid,371.5,127.0,616.0,22.396428,114.109497
+29,Bulgarian,Bulgaria,bul,bg,lucid,314.0,0.0,628.0,42.733883,25.48583
+17,Arabic,Morocco,ara,ma,lucid,303.5,20.0,587.0,31.791702,-7.09262
+74,English,New Zealand,eng,nz,prolific,249.0,,,-40.900557,174.885971
+115,Croatian,Croatia,hrv,hr,lucid,224.0,116.0,332.0,45.1,15.2
+150,Slovenian,Slovenia,slv,si,prolific,208.0,,,46.151241,14.995463
+161,Spanish,Costa Rica,spa,cr,lucid,208.0,123.0,293.0,9.748917,-83.753428
+90,Estonian,Estonia,est,ee,prolific,206.0,,,58.595272,25.013607
+111,Hebrew,Israel,heb,il,lucid,204.0,100.0,308.0,31.046051,34.851612
+151,Slovenian,Slovenia,slv,si,lucid,196.0,94.0,298.0,46.151241,14.995463
+196,Swedish,Sweden,swe,se,prolific,190.0,,,60.128161,18.643501
+44,Dutch,Belgium,dut,be,prolific,189.0,,,50.503887,4.469936
+40,Czech,Czech Republic,cze,cz,prolific,179.0,,,49.817492,15.472962
+110,Hebrew,Israel,heb,il,prolific,175.0,,,31.046051,34.851612
+96,French,Canada,fre,ca,prolific,150.0,,,56.130366,-106.346771
+102,German,Austria,ger,at,prolific,147.0,,,47.516231,14.550072
+216,Catalan,Spain,,,prolific,146.0,,,40.463667,-3.74922
+128,Latvian,Latvia,lat,lv,prolific,127.0,,,56.879635,24.603189
+99,French,Switzerland,fre,ch,lucid,115.5,56.0,175.0,46.818188,8.227512
+64,English,Israel,eng,il,prolific,114.0,,,31.046051,34.851612
+92,Finnish,Finland,fin,fi,prolific,109.0,,,61.92411,25.748151
+230,Welsh,United Kingdom,,,prolific,101.0,,,55.378051,-3.435973
+94,French,Belgium,fre,be,prolific,93.0,,,50.503887,4.469936
+131,Lithuanian,Lithuania,lit,lt,lucid,77.0,0.0,154.0,55.169438,23.881275
+54,English,Switzerland,eng,ch,prolific,65.0,,,46.818188,8.227512
+42,Danish,Denmark,dan,dk,prolific,63.0,,,56.26392,9.501785
+15,Arabic,Lebanon,ara,lb,lucid,60.5,24.0,97.0,33.854721,35.862285
+59,English,Ghana,eng,gh,lucid,57.5,12.0,103.0,7.946527,-1.023194
+104,German,Switzerland,ger,ch,prolific,54.0,,,46.818188,8.227512
+7,Arabic,Algeria,ara,dz,lucid,51.0,13.0,89.0,28.033886,1.659626
+171,Spanish,Honduras,spa,hn,lucid,51.0,17.0,85.0,15.199999,-86.241905
+222,Scots,United Kingdom,,,prolific,51.0,,,55.378051,-3.435973
+134,Norwegian,Norway,nor,no,prolific,50.0,,,60.472024,8.468946
+55,English,Switzerland,eng,ch,lucid,49.0,8.0,90.0,46.818188,8.227512
+19,Arabic,Oman,ara,om,lucid,43.0,10.0,76.0,21.512583,55.923255
+91,Estonian,Estonia,est,ee,lucid,43.0,0.0,86.0,58.595272,25.013607
+124,Japanese,Japan,jpn,jp,prolific,38.0,,,36.204824,138.252924
+175,Spanish,Nicaragua,spa,ni,lucid,36.5,7.0,66.0,12.865416,-85.207229
+214,Basque,Spain,,,prolific,35.0,,,40.463667,-3.74922
+129,Latvian,Latvia,lat,lv,lucid,35.0,0.0,70.0,56.879635,24.603189
+163,Spanish,Dominican Republic,spa,do,lucid,34.0,5.0,63.0,18.735693,-70.162651
+189,Spanish,Uruguay,spa,uy,lucid,33.0,14.0,52.0,-32.522779,-55.765835
+177,Spanish,Panama,spa,pa,lucid,31.0,12.0,50.0,8.537981,-80.782127
+13,Arabic,Kuwait,ara,kw,lucid,29.5,10.0,49.0,29.31166,47.481766
+98,French,Switzerland,fre,ch,prolific,28.0,,,46.818188,8.227512
+5,Arabic,Bahrain,ara,bh,lucid,27.0,8.0,46.0,25.930414,50.637772
+155,Spanish,Bolivia,spa,bo,lucid,27.0,2.0,52.0,-16.290154,-63.588653
+65,English,Israel,eng,il,lucid,23.5,1.0,46.0,31.046051,34.851612
+87,English,Vietnam,eng,vn,lucid,22.0,0.0,44.0,14.058324,108.277199
+191,Spanish,"Venezuela, Bolivarian Republic of",spa,ve,lucid,21.5,4.0,39.0,6.42375,-66.58973
+145,Russian,Kazakhstan,rus,kz,lucid,21.5,4.0,39.0,48.019573,66.923684
+1,Afrikaans,South Africa,afr,za,lucid,21.5,1.0,42.0,-30.559482,22.937506
+185,Spanish,El Salvador,spa,sv,lucid,21.5,4.0,39.0,13.794185,-88.89653
+121,Italian,Switzerland,ita,ch,lucid,20.5,5.0,36.0,46.818188,8.227512
+81,English,Puerto Rico,eng,pr,lucid,18.0,6.0,30.0,18.220833,-66.590149
+11,Arabic,Jordan,ara,jo,lucid,17.0,3.0,31.0,30.585164,36.238414
+35,Chinese,Malaysia,chi,my,lucid,14.5,2.0,27.0,4.210484,101.975766
+25,Arabic,Tunisia,ara,tn,lucid,12.5,0.0,25.0,33.886917,9.537499
+181,Spanish,Puerto Rico,spa,pr,lucid,12.5,5.0,20.0,18.220833,-66.590149
+183,Spanish,Paraguay,spa,py,lucid,11.5,4.0,19.0,-23.442503,-58.443832
+37,Chinese,Singapore,chi,sg,lucid,11.0,1.0,21.0,1.352083,103.819836
+21,Arabic,Qatar,ara,qa,lucid,9.5,2.0,17.0,25.354826,51.183884
+169,Spanish,Guatemala,spa,gt,lucid,8.5,2.0,15.0,15.783471,-90.230759
+220,Nepali,Nepal,,,prolific,0.0,,,28.394857,84.124008
+221,Nepali,Nepal,,,lucid,0.0,0.0,0.0,28.394857,84.124008
+138,Portuguese,Brazil,por,br,prolific,0.0,,,-14.235004,-51.92528
+4,Arabic,Bahrain,ara,bh,prolific,0.0,,,25.930414,50.637772
+219,Farsi,Iran,,,lucid,0.0,0.0,0.0,32.427908,53.688046
+224,Tamil,India,,,prolific,0.0,,,20.593684,78.96288
+225,Tamil,India,,,lucid,0.0,0.0,0.0,20.593684,78.96288
+226,Tamil,Sri Lanka,,,prolific,0.0,,,7.873054,80.771797
+223,Scots,United Kingdom,,,lucid,0.0,0.0,0.0,55.378051,-3.435973
+217,Catalan,Spain,,,lucid,0.0,0.0,0.0,40.463667,-3.74922
+218,Farsi,Iran,,,prolific,0.0,,,32.427908,53.688046
+228,Tamil,Singapore,,,prolific,0.0,,,1.352083,103.819836
+126,Korean,Korea,kor,kr,prolific,0.0,,,35.907757,127.766922
+215,Basque,Spain,,,lucid,0.0,0.0,0.0,40.463667,-3.74922
+6,Arabic,Algeria,ara,dz,prolific,0.0,,,28.033886,1.659626
+213,Armenian,Armenia,,,lucid,0.0,0.0,0.0,40.069099,45.038189
+212,Armenian,Armenia,,,prolific,0.0,,,40.069099,45.038189
+211,Albanian,Albania,,,lucid,0.0,0.0,0.0,41.327953,19.818698
+210,Albanian,Albania,,,prolific,0.0,,,41.327953,19.818698
+8,Arabic,Egypt,ara,eg,prolific,0.0,,,26.820553,30.802498
+208,Vietnamese,Vietnam,vie,vn,prolific,0.0,,,14.058324,108.277199
+10,Arabic,Jordan,ara,jo,prolific,0.0,,,30.585164,36.238414
+206,Urdu,Pakistan,urd,pk,prolific,0.0,,,30.375321,69.345116
+204,Ukrainian,Ukraine,ukr,ua,prolific,0.0,,,48.379433,31.16558
+227,Tamil,Sri Lanka,,,lucid,0.0,0.0,0.0,7.873054,80.771797
+2,Arabic,United Arab Emirates,ara,ae,prolific,0.0,,,23.424076,53.847818
+229,Tamil,Singapore,,,lucid,0.0,0.0,0.0,1.352083,103.819836
+244,Mandarin,Taiwan,,,prolific,0.0,,,23.69781,120.960515
+256,Punjabi,Pakistan,,,prolific,0.0,,,30.375321,69.345116
+255,Punjabi,India,,,lucid,0.0,0.0,0.0,20.593684,78.96288
+254,Punjabi,India,,,prolific,0.0,,,20.593684,78.96288
+253,Gujarati,India,,,lucid,0.0,0.0,0.0,20.593684,78.96288
+252,Gujarati,India,,,prolific,0.0,,,20.593684,78.96288
+251,Malayalam,India,,,lucid,0.0,0.0,0.0,20.593684,78.96288
+250,Malayalam,India,,,prolific,0.0,,,20.593684,78.96288
+249,Mandarin,Hong Kong,,,lucid,0.0,0.0,0.0,22.396428,114.109497
+248,Mandarin,Hong Kong,,,prolific,0.0,,,22.396428,114.109497
+247,Mandarin,Malaysia,,,lucid,0.0,0.0,0.0,4.210484,101.975766
+246,Mandarin,Malaysia,,,prolific,0.0,,,4.210484,101.975766
+245,Mandarin,Taiwan,,,lucid,0.0,0.0,0.0,23.69781,120.960515
+243,Mandarin,Singapore,,,lucid,0.0,0.0,0.0,1.352083,103.819836
+202,Turkish,Turkey,tur,tr,prolific,0.0,,,38.963745,35.243322
+242,Mandarin,Singapore,,,prolific,0.0,,,1.352083,103.819836
+241,Mandarin,China,,,lucid,0.0,0.0,0.0,35.86166,104.195397
+240,Mandarin,China,,,prolific,0.0,,,35.86166,104.195397
+239,Cantonese,China,,,lucid,0.0,0.0,0.0,35.86166,104.195397
+238,Cantonese,China,,,prolific,0.0,,,35.86166,104.195397
+237,Cantonese,Hong Kong,,,lucid,0.0,0.0,0.0,22.396428,114.109497
+236,Cantonese,Hong Kong,,,prolific,0.0,,,22.396428,114.109497
+235,Twi,Ghana,,,lucid,0.0,0.0,0.0,7.946527,-1.023194
+234,Twi,Ghana,,,prolific,0.0,,,7.946527,-1.023194
+233,Telugu,India,,,lucid,0.0,0.0,0.0,20.593684,78.96288
+232,Telugu,India,,,prolific,0.0,,,20.593684,78.96288
+231,Welsh,United Kingdom,,,lucid,0.0,0.0,0.0,55.378051,-3.435973
+12,Arabic,Kuwait,ara,kw,prolific,0.0,,,29.31166,47.481766
+198,Tagalog-Filipino,Philippines,tgl,ph,prolific,0.0,,,12.879721,121.774017
+118,Indonesian,Indonesia,ind,id,prolific,0.0,,,-0.789275,113.921327
+60,English,Hong Kong,eng,hk,prolific,0.0,,,22.396428,114.109497
+36,Chinese,Singapore,chi,sg,prolific,0.0,,,1.352083,103.819836
+164,Spanish,Ecuador,spa,ec,prolific,0.0,,,-1.831239,-78.183406
+132,Malay,Malaysia,may,my,prolific,0.0,,,4.210484,101.975766
+162,Spanish,Dominican Republic,spa,do,prolific,0.0,,,18.735693,-70.162651
+160,Spanish,Costa Rica,spa,cr,prolific,0.0,,,9.748917,-83.753428
+38,Chinese,Taiwan,chi,tw,prolific,0.0,,,23.69781,120.960515
+158,Spanish,Colombia,spa,co,prolific,0.0,,,4.570868,-74.297333
+48,English,United Arab Emirates,eng,ae,prolific,0.0,,,23.424076,53.847818
+58,English,Ghana,eng,gh,prolific,0.0,,,7.946527,-1.023194
+86,English,Vietnam,eng,vn,prolific,0.0,,,14.058324,108.277199
+154,Spanish,Bolivia,spa,bo,prolific,0.0,,,-16.290154,-63.588653
+152,Spanish,Argentina,spa,ar,prolific,0.0,,,-38.416097,-63.616672
+168,Spanish,Guatemala,spa,gt,prolific,0.0,,,15.783471,-90.230759
+82,English,Singapore,eng,sg,prolific,0.0,,,1.352083,103.819836
+66,English,India,eng,in,prolific,0.0,,,20.593684,78.96288
+68,English,Kenya,eng,ke,prolific,0.0,,,-0.023559,37.906193
+148,Slovak,Slovakia,slk,sk,prolific,0.0,,,48.669026,19.699024
+70,English,Malaysia,eng,my,prolific,0.0,,,4.210484,101.975766
+146,Russian,Russian Federation,rus,ru,prolific,0.0,,,61.52401,105.318756
+144,Russian,Kazakhstan,rus,kz,prolific,0.0,,,48.019573,66.923684
+72,English,Nigeria,eng,ng,prolific,0.0,,,9.081999,8.675277
+142,Romanian,Romania,rum,ro,prolific,0.0,,,45.943161,24.96676
+76,English,Philippines,eng,ph,prolific,0.0,,,12.879721,121.774017
+78,English,Pakistan,eng,pk,prolific,0.0,,,30.375321,69.345116
+34,Chinese,Malaysia,chi,my,prolific,0.0,,,4.210484,101.975766
+170,Spanish,Honduras,spa,hn,prolific,0.0,,,15.199999,-86.241905
+200,Thai,Thailand,tha,th,prolific,0.0,,,15.870032,100.992541
+22,Arabic,Saudi Arabia,ara,sa,prolific,0.0,,,23.885942,45.079162
+14,Arabic,Lebanon,ara,lb,prolific,0.0,,,33.854721,35.862285
+80,English,Puerto Rico,eng,pr,prolific,0.0,,,18.220833,-66.590149
+16,Arabic,Morocco,ara,ma,prolific,0.0,,,31.791702,-7.09262
+18,Arabic,Oman,ara,om,prolific,0.0,,,21.512583,55.923255
+20,Arabic,Qatar,ara,qa,prolific,0.0,,,25.354826,51.183884
+194,Swahili,Kenya,swa,ke,prolific,0.0,,,-0.023559,37.906193
+192,Serbian,Serbia,srp,rs,prolific,0.0,,,44.016521,21.005859
+120,Italian,Switzerland,ita,ch,prolific,0.0,,,46.818188,8.227512
+190,Spanish,"Venezuela, Bolivarian Republic of",spa,ve,prolific,0.0,,,6.42375,-66.58973
+114,Croatian,Croatia,hrv,hr,prolific,0.0,,,45.1,15.2
+188,Spanish,Uruguay,spa,uy,prolific,0.0,,,-32.522779,-55.765835
+24,Arabic,Tunisia,ara,tn,prolific,0.0,,,33.886917,9.537499
+32,Chinese,Hong Kong,chi,hk,prolific,0.0,,,22.396428,114.109497
+130,Lithuanian,Lithuania,lit,lt,prolific,0.0,,,55.169438,23.881275
+184,Spanish,El Salvador,spa,sv,prolific,0.0,,,13.794185,-88.89653
+182,Spanish,Paraguay,spa,py,prolific,0.0,,,-23.442503,-58.443832
+180,Spanish,Puerto Rico,spa,pr,prolific,0.0,,,18.220833,-66.590149
+178,Spanish,Peru,spa,pe,prolific,0.0,,,-9.189967,-75.015152
+112,Hindi,India,hin,in,prolific,0.0,,,20.593684,78.96288
+176,Spanish,Panama,spa,pa,prolific,0.0,,,8.537981,-80.782127
+26,Bengali,Bangladesh,ben,bd,prolific,0.0,,,23.684994,90.356331
+174,Spanish,Nicaragua,spa,ni,prolific,0.0,,,12.865416,-85.207229
+28,Bulgarian,Bulgaria,bul,bg,prolific,0.0,,,42.733883,25.48583
+30,Chinese,China,chi,cn,prolific,0.0,,,35.86166,104.195397
+257,Punjabi,Pakistan,,,lucid,0.0,0.0,0.0,30.375321,69.345116
